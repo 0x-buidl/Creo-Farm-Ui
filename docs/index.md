@@ -7,10 +7,10 @@ Download Metamask For Mobile/PC here https://metamask.io/
 ### 1) Navigate to Metamask -> Settings -> Networks, click on add Network.
 
 #### Mobile
-<img src="./images/addNetworkMobile.PNG" alt="add network mobile"/>
+<img src="./images/addNetworkMobile.PNG" alt="add network mobile" style="height:400px"/>
 
 #### Web
-<img src="./images/addNetworkWeb.png" alt="add network web" />
+<img src="./images/addNetworkWeb.png" alt="add network web" style="height:400px"/>
 
 ### 2) Input the following variables as shown below
 
@@ -23,31 +23,31 @@ Block Explorer: https://testnet.bscscan.com/
 ```
 
 #### Mobile
-<img src="./images/inputNetworMobile.PNG" alt="input network mobile" />
+<img src="./images/inputNetworMobile.PNG" alt="input network mobile" style="height:400px"/>
 
 #### Web
-<img src="./images/inputNetworkWeb.png" alt="input network web" />
+<img src="./images/inputNetworkWeb.png" alt="input network web" style="height:400px" />
 
 ### 3) Switch to bsc testnet as shown below
 
 #### Mobile
 1. Click on the current network shown on top section of your wallet
 
-<img src="./images/changeNetworkMobile1.jpg" alt="change network mobile" />
+<img src="./images/changeNetworkMobile1.jpg" alt="change network mobile" style="height:150px"/>
 
 2. Select Bsc testnet
 
-<img src="./images/changeNetworkMobile2.PNG" alt="switch network mobile" />
+<img src="./images/changeNetworkMobile2.PNG" alt="switch network mobile" style="height:400px"/>
 
 #### Web
 
 1. Click on the current network shown on top section of your wallet
 
-<img src="./images/changeNetworkWeb1.png" alt="change network web" />
+<img src="./images/changeNetworkWeb1.png" alt="change network web" style="height:150px"/>
 
 2. Select Bsc testnet
 
-<img src="./images/changeNetworkWeb2.png" alt="switch network web" />
+<img src="./images/changeNetworkWeb2.png" alt="switch network web" style="height:400px"/>
 
 ### 3) Get free testnet bnb for transactions from [here](https://testnet.binance.org/faucet-smart). Paste in your wallet and claim testnet bnb.
 
