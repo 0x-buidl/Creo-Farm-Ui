@@ -8,6 +8,8 @@ Download Metamask For Mobile/PC here https://metamask.io/
 
 #### Mobile
 
+<img src="./images/addNetworkMobile.PNG" alt="add network mobile" style="width:300px; height:400"/>
+
 ![add network mobile](./images/addNetworkMobile.PNG)
 
 #### Web
