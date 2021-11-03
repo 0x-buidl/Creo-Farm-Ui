@@ -2,7 +2,7 @@
 
 ## How to set up test environment (metamask):
 
-Download Metamask For Mobile/PC here https://metamask.io/
+Download Metamask For Mobile/PC [here](https://metamask.io/)
 
 ### 1) Navigate to Metamask -> Settings -> Networks, click on add Network.
 
