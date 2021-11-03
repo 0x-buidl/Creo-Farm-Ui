@@ -7,14 +7,10 @@ Download Metamask For Mobile/PC here https://metamask.io/
 ### 1) Navigate to Metamask -> Settings -> Networks, click on add Network.
 
 #### Mobile
-
-<img src="./images/addNetworkMobile.PNG" alt="add network mobile" style="width:300px; height:400"/>
-
-![add network mobile](./images/addNetworkMobile.PNG)
+<img src="./images/addNetworkMobile.PNG" alt="add network mobile" style="width:100px; height:200px"/>
 
 #### Web
-
-![add network web](./images/addNetworkWeb.png)
+<img src="./images/addNetworkWeb.png" alt="add network web" style="width:150px; height:250px"/>
 
 ### 2) Input the following variables as shown below
 
@@ -27,27 +23,33 @@ Block Explorer: https://testnet.bscscan.com/
 ```
 
 #### Mobile
-
-![input network mobile](./images/inputNetworMobile.PNG)
+<img src="./images/inputNetworMobile.PNG" alt="input network mobile" style="width:100px; height:200px"/>
 
 #### Web
-
-![input network web](./images/inputNetworkWeb.png)
+<img src="./images/inputNetworkWeb.png" alt="input network web" style="width:150px; height:250px"/>
 
 ### 3) Switch to bsc testnet as shown below
 
 #### Mobile
-
 1. Click on the current network shown on top section of your wallet
-   ![change network mobile](./images/changeNetworkMobile2.jpg)
+
+<img src="./images/changeNetworkMobile1.jpg" alt="change network mobile" style="width:200px; height:100px"/>
+
 2. Select Bsc testnet
-   ![switch network mobile](./images/changeNetworkMobile2.PNG)
+
+<img src="./images/changeNetworkMobile2.PNG" alt="switch network mobile" style="width:100px; height:200px"/>
 
 #### Web
 
 1. Click on the current network shown on top section of your wallet
-   ![change network web](./images/changeNetworkWeb1.png)
+
+<img src="./images/changeNetworkWeb1.png" alt="change network web" style="width:200px; height:100px"/>
+
 2. Select Bsc testnet
-   ![switch network web](./images/changeNetworkWeb2.png)
+
+<img src="./images/changeNetworkWeb2.png" alt="switch network web" style="width:150px; height:250px"/>
 
 ### 3) Get free testnet bnb for transactions from [here](https://testnet.binance.org/faucet-smart). Paste in your wallet and claim testnet bnb.
+
+
+### Note: Testnet Creo token and  testnet creo lp token will be airdropped to users that requested access to farm testnet.
